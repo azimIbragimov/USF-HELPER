@@ -1,0 +1,4 @@
+pytz
+discord.py
+selenium
+webdriver_manager
